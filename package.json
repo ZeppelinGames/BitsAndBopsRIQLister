@@ -1,0 +1,19 @@
+{
+  "name": "bits-and-bops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^28.1.1",
+    "electron-packager": "^17.1.2"
+  },
+  "dependencies": {
+    "node-stream-zip": "^1.15.0"
+  }
+}
